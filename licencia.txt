@@ -1,0 +1,116 @@
+CC0 1.0 Universal
+
+Declaración de propósito
+
+Las leyes de la mayoría de las jurisdicciones del mundo confieren automáticamente
+derechos de autor y derechos conexos exclusivos (definidos a continuación) sobre el creador y
+propietario (s) posterior (es) (todos y cada uno, un "propietario") de una obra original de
+autoría y / o una base de datos (cada una, una "Obra").
+
+Ciertos propietarios desean ceder permanentemente esos derechos sobre una Obra para el
+propósito de contribuir a un bien común de creatividad, cultura y ciencia
+obras ("Comunes") que el público pueda de forma fiable y sin temor a
+las reclamaciones por infracción se basan en, modifican, incorporan en otras obras, reutilizan
+y redistribuir lo más libremente posible en cualquier forma y para cualquier
+fines, incluidos, entre otros, fines comerciales. Estos propietarios pueden
+contribuir a los Comunes para promover el ideal de una cultura libre y la
+una mayor producción de obras creativas, culturales y científicas, o para obtener
+reputación o mayor distribución de su Trabajo, en parte a través del uso y
+esfuerzos de otros.
+
+Para estos y / u otros fines y motivaciones, y sin ninguna expectativa
+de consideración o compensación adicional, la persona que asocia CC0 con un
+Trabajo (el "Afirmador"), en la medida en que sea propietario de los derechos de autor
+y derechos conexos en el trabajo, elige voluntariamente aplicar CC0 al trabajo
+y distribuir públicamente el Trabajo en sus términos, con conocimiento de su
+Derechos de autor y derechos conexos en el trabajo y el significado y la intención legal
+efecto de CC0 sobre esos derechos.
+
+1. Copyright y derechos conexos. Un Trabajo puesto a disposición bajo CC0 puede ser
+protegido por derechos de autor y derechos afines o conexos ("Copyright y
+Derechos relacionados "). Los derechos de autor y los derechos relacionados incluyen, entre otros,
+a, lo siguiente:
+
+  yo. el derecho a reproducir, adaptar, distribuir, realizar, exhibir, comunicar,
+  y traducir una Obra;
+
+  ii. derechos morales retenidos por el autor (es) original (es) y / o intérprete (s);
+
+  iii. derechos de publicidad y privacidad relacionados con la imagen o semejanza de una persona
+  representado en una Obra;
+
+  iv. derechos que protegen contra la competencia desleal en relación con una Obra,
+  sujeto a las limitaciones del párrafo 4 (a), a continuación;
+
+  v. derechos que protegen la extracción, difusión, uso y reutilización de datos en
+  un trabajo;
+
+  vi. derechos de base de datos (como los derivados de la Directiva 96/9 / CE del
+  Parlamento Europeo y del Consejo de 11 de marzo de 1996 sobre la legalidad
+  protección de bases de datos, y bajo cualquier implementación nacional de las mismas,
+  incluida cualquier versión enmendada o sucesora de dicha directiva); y
+
+  vii. otros derechos similares, equivalentes o correspondientes en todo el mundo
+  basado en la ley o tratado aplicable, y cualquier implementación nacional de los mismos.
+
+2. Renuncia. En la mayor medida permitida por, pero no en contravención de,
+ley aplicable, Afirma por el presente abierta, completa, permanente, irrevocable y
+renuncia, abandona y renuncia incondicionalmente a todos los derechos de autor de Affirmer
+y derechos conexos y reclamaciones y causas de acción asociadas, ya sea
+conocidos o desconocidos (incluyendo reclamos existentes y futuros y causas de
+acción), en el Trabajo (i) en todos los territorios del mundo, (ii) para el máximo
+duración prevista por la ley o tratado aplicable (incluido el tiempo futuro
+extensiones), (iii) en cualquier medio actual o futuro y para cualquier número de
+copias, y (iv) para cualquier propósito, incluidos, entre otros,
+fines comerciales, publicitarios o promocionales (la "Renuncia"). Afirmador hace
+la exención en beneficio de cada miembro del público en general y para el
+en detrimento de los herederos y sucesores de Afirmer, con la plena intención de que dicha Renuncia
+no estará sujeto a revocación, rescisión, cancelación, terminación o
+cualquier otra acción legal o equitativa para interrumpir el disfrute silencioso del Trabajo
+por el público según lo contempla la Declaración de Propósito expresa del Afirmador.
+
+3. Respaldo de la licencia pública. Si alguna parte de la exención por cualquier motivo
+juzgado legalmente inválido o ineficaz según la ley aplicable, entonces la Renuncia
+se conservarán en la máxima medida permitida teniendo en cuenta
+Declaración expresa de propósito del Afirmador. Además, en la medida en que la renuncia
+Se juzga que Afirmador otorga a cada persona afectada una licencia libre de regalías,
+intransferible, no sublicenciable, no exclusivo, irrevocable y
+licencia incondicional para ejercer los derechos de autor y derechos conexos de Afirmer en
+la Obra (i) en todos los territorios del mundo, (ii) por la duración máxima
+provisto por la ley o el tratado aplicable (incluidas futuras extensiones de tiempo), (iii)
+en cualquier medio actual o futuro y para cualquier número de copias, y (iv) para cualquier
+propósito alguno, incluyendo sin limitación comercial, publicitaria o
+fines promocionales (la "Licencia"). La Licencia se considerará efectiva cuando
+de la fecha en que Affirmer aplicó a la obra. Si alguna parte del
+La licencia por cualquier motivo se considerará legalmente inválida o ineficaz según
+ley aplicable, dicha invalidez o ineficacia parcial no deberá
+invalidar el resto de la Licencia y, en tal caso, Afirmar por la presente
+afirma que él o ella no (i) ejercerá ninguno de sus
+Copyright y derechos relacionados en el trabajo o (ii) hacer valer cualquier reclamo asociado
+y causas de acción con respecto a la Obra, en cualquier caso contrarias a
+Declaración expresa de propósito del Afirmador.
+
+4. Limitaciones y exenciones de responsabilidad.
+
+  a. Ninguna marca registrada o derechos de patente propiedad de Affirmer se renuncia, abandona,
+  entregado, autorizado o afectado por este documento.
+
+  segundo. Affirmer ofrece el Trabajo tal cual y no hace declaraciones ni garantías.
+  de cualquier tipo en relación con el Trabajo, expreso, implícito, legal o de otro tipo,
+  incluyendo, sin limitación, garantías de título, comerciabilidad, idoneidad
+  para un propósito particular, no infracción, o la ausencia de latente o
+  otros defectos, precisión, o la presencia o ausencia de errores, ya sea que
+  detectable, todo en la mayor medida permitida por la ley aplicable.
+
+  C. Afirmador renuncia a la responsabilidad de compensar los derechos de otras personas
+  que pueden aplicarse a la Obra o cualquier uso de la misma, incluidos, entre otros,
+  los derechos de autor y derechos conexos de cualquier persona sobre el trabajo. Además, afirmador
+  renuncia a la responsabilidad de obtener los consentimientos, permisos necesarios
+  u otros derechos necesarios para cualquier uso de la Obra.
+
+  re. Affirmer comprende y reconoce que Creative Commons no es una
+  parte de este documento y no tiene ningún deber u obligación con respecto a este
+  CC0 o uso de la Obra.
+
+Para obtener más información, consulte
+<http://creativecommons.org/publicdomain/zero/1.0/>
